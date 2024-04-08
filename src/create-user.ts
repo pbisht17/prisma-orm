@@ -5,6 +5,7 @@ async function main() {
     data: {
       name: 'Hanumanji',
       email: 'hanumanji@prisma.io',
+      phoneNumber: '34234234324'
     },
   })
   console.log(user)
